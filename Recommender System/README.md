@@ -3,6 +3,7 @@
 This project is recommender system which will advise subscriber for movie rating. The key points of this project are:
 
 *Collabortive Filtering
+
 *Pearson Correlation
 
 ## Collaborative Filtering
