@@ -2,15 +2,15 @@
 
 This project is recommender system which will advise subscriber for movie rating. The key points of this project are:
 
-*Collabortive Filtering
+* Collabortive Filtering
 
-*Pearson Correlation
+* Pearson Correlation
 
 ## Collaborative Filtering
 Collaborative filtering is based on other customers choice which is kept in dataframe and similar group of people are provided with similar contents. User based collaborative
 system is based on user similarity or neighborhood.
 
-##Algorithm
+## Algorithm
 
 *User ratings matrix: shows the rating of users
 *Pearson Correlation: discover similarit of active user is to other users.Similarity measurents is done by Pearson Correlation  
